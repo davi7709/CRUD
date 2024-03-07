@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../JDBC SQL Server/sqljdbc_12.4.2.0_ptb.zip!/sqljdbc_12.4/ptb/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../../../../JDBC SQL Server/sqljdbc_12.4.2.0_ptb.zip!/sqljdbc_12.4/ptb/jars" recursive="false" />
+  </library>
+</component>
